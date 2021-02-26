@@ -1,8 +1,4 @@
-# Lego-FLL-2020-2021
-
-# Challenge & Resources Feb. 8 2021| 0 KB
-
-# FIRST LEGO League Explore PLAYMAKERSSM 
+# FIRST LEGO League Explore PLAYMAKERSSM 2020-2021 
 
 Challenge and Building Instructions: https://www.firstinspires.org/resource-library/fll/explore/challenge-and-resources
 
