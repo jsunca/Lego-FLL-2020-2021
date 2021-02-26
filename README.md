@@ -1,4 +1,4 @@
-# FIRST LEGO League Explore PLAYMAKERSSM 2020-2021 
+# FIRST LEGO League Explore PLAYMAKERS 2020-2021 
 
 Challenge and Building Instructions: https://www.firstinspires.org/resource-library/fll/explore/challenge-and-resources
 
