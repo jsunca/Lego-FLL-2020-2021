@@ -26,3 +26,6 @@ New this season – with your team registration, you’ll receive access to digi
 # Objective
 - Can you help them create new, fun ways for ever yone to get moving? 
 - Your ideas could help change your community – and even the world!
+
+![image](https://user-images.githubusercontent.com/79726839/109363882-94e00b00-785b-11eb-84b4-8db97c5cd4fd.png)
+![image](https://user-images.githubusercontent.com/79726839/109363912-af19e900-785b-11eb-8a56-c03e6579cfab.png)
