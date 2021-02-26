@@ -12,10 +12,13 @@ New this season – with your team registration, you’ll receive access to digi
 - Other store may sell less.
 
 ## 2020-2021 Session Lego Package
-- about 40 US dollars + shipping
+- About 40 US dollars + shipping
+
+## Team Registration Fee
+- About 60 dollars to share together
 
 # Timeline
-## 2021 May or June sumbmit final solutions
+- 2021 May or June sumbmit final solutions
 
 # Objective
 - Can you help them create new, fun ways for ever yone to get moving? 
