@@ -4,6 +4,9 @@ Challenge and Building Instructions: https://www.firstinspires.org/resource-libr
 or 
 check the PDF file at https://github.com/jsunca/Lego-FLL-2020-2021/blob/main/Challenge%20%26%20Resources%20_%20FIRST.pdf
 
+Resources: 
+https://www.firstlegoleague.org/season?__hstc=212927755.ddf86484d28b355ae6e524bc727e982e.1614367302687.1614367302687.1614370801753.2&__hssc=212927755.2.1614370801753&__hsfp=1895085607#resources
+
 New this season – with your team registration, you’ll receive access to digital resources through the FIRST Thinkscape Portal, including the PLAYMAKERS Team Meeting Guide and a static and interactive version of the Engineering Notebook.   
 
 # COST
