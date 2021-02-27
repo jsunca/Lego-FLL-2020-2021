@@ -12,6 +12,7 @@ New this season – with your team registration, you’ll receive access to digi
 # Team Creation
 - https://my.firstinspires.org/Teams/Wizard/CreateNewTeam/3?Role=coach&Token=c6b775f3-01b8-46e2-8bac-c1379b43bc87&ProgramName=JFLL
 - Guide: https://info.firstinspires.org/class-pack/registration?hsCtaTracking=66a4bfb8-d8d0-4dab-80ca-0b621b4812fd%7Cfb559c10-dc00-486d-91b5-1077b5ca4709
+- 6-10 yrs old Explorer: https://info.firstinspires.org/class-pack/firstlegoleagueexplore?utm_source=hubspot&utm_medium=microsite&utm_campaign=fir-registration-021
 
 # COST
 ## Lego Wedo 2.0 
