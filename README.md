@@ -14,6 +14,9 @@ New this season – with your team registration, you’ll receive access to digi
 - Guide: https://info.firstinspires.org/class-pack/registration?hsCtaTracking=66a4bfb8-d8d0-4dab-80ca-0b621b4812fd%7Cfb559c10-dc00-486d-91b5-1077b5ca4709
 - 6-10 yrs old Explorer: https://info.firstinspires.org/class-pack/firstlegoleagueexplore?utm_source=hubspot&utm_medium=microsite&utm_campaign=fir-registration-021
 
+# Team Login Page
+- https://login.firstinspires.org/core/login?signin=c4a6fd0b5dd8c49b6b4dabf4ebf32118
+
 # COST
 ## Lego Wedo 2.0 
 - Lego official store $297.99 link: https://www.lego.com/en-ca/product/lego-education-wedo-2-0-core-set-45300?ef_id=CjwKCAiA1eKBBhBZEiwAX3gql1UTR8NL9c61BreGjkYQWj7BjyfUfx3mQ5U_RE8JRedvnSqj4hwMXhoCGM8QAvD_BwE%3AG%3As&s_kwcid=AL%21790%213%21473892159259%21%21%21g%21913040058880%21&cmp=KAC-INI-GOOGUS-GO-CA-EN-RE-SP-BUY-CREATE-BRAND-SHOP-BP-SP-RN-CATCH_ALL_BRAND
