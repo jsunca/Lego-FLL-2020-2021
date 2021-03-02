@@ -23,24 +23,8 @@ New this season – with your team registration, you’ll receive access to digi
 ## Lego Wedo 2.0 
 - Lego official store $297.99 link: https://www.lego.com/en-ca/product/lego-education-wedo-2-0-core-set-45300?ef_id=CjwKCAiA1eKBBhBZEiwAX3gql1UTR8NL9c61BreGjkYQWj7BjyfUfx3mQ5U_RE8JRedvnSqj4hwMXhoCGM8QAvD_BwE%3AG%3As&s_kwcid=AL%21790%213%21473892159259%21%21%21g%21913040058880%21&cmp=KAC-INI-GOOGUS-GO-CA-EN-RE-SP-BUY-CREATE-BRAND-SHOP-BP-SP-RN-CATCH_ALL_BRAND
 - Other store may sell less. $249 @ https://spectrum-nasco.ca/lego-wedo-2.0-core-set-software-and-get-started-project
-
 ## Lego 2020-2021 Session Lego Package
-- About 40 US dollars + shipping
-
 ## Lego Team Registration Fee
-- About 60 dollars to share together
-
-2020/2021 FIRST LEGO League Explore PLAYMAKERSSM Team Registration & Product Pricing
-*Pricing is reflected in U.S.dollars
-
-Item
-U.S. $ Price (USD)
-Shipping & Handling - U.S. 	Shipping & Handling - Canada
-Team Registration	$99.00	$18.00	$42.00
-Product	 	 
-Additional PLAYMAKERS Explore Set	$35.00	$15.00	 
-LEGO Education WeDo 2.0 Core Set	$205.00	$15.00	 
-
 ## Other fees 
 - To be determined. Perhaps the team T-shirt, flags...
 
