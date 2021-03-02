@@ -30,6 +30,10 @@ New this season – with your team registration, you’ll receive access to digi
 
 # Timeline
 - 2021 May or June sumbmit final solutions
+- 
+# Local Help
+- Christine Bibic, Partner - Ontario, cbibic@gmail.com
+- Dave Ellis, Partner - Ontario, david.ellis@firstroboticscanada.org
 
 # Objective
 - Can you help them create new, fun ways for ever yone to get moving? 
@@ -37,3 +41,5 @@ New this season – with your team registration, you’ll receive access to digi
 
 ![image](https://user-images.githubusercontent.com/79726839/109363882-94e00b00-785b-11eb-84b4-8db97c5cd4fd.png)
 ![image](https://user-images.githubusercontent.com/79726839/109363912-af19e900-785b-11eb-8a56-c03e6579cfab.png)
+
+
