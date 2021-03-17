@@ -30,7 +30,11 @@ New this season – with your team registration, you’ll receive access to digi
 
 # Timeline
 - 2021 May or June sumbmit final solutions
-- 
+
+# Local Events 
+- https://www.wafflesrobotics.com/first-lego-league/explore/festival/
+- https://www.firstroboticscanada.org/events/category/fll/
+
 # Local Help
 - Christine Bibic, Partner - Ontario, cbibic@gmail.com
 - Dave Ellis, Partner - Ontario, david.ellis@firstroboticscanada.org
